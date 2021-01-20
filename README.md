@@ -13,4 +13,7 @@ Below are some of the images from my dry run of the code.
 # Requirements
 
 This project requires use of the OpenCV Library.
-It can be downloaded using pip install opencv-python
+
+It can be downloaded using pip install opencv-python.
+
+It requires use of haarcascade XML FILES which have been uploaded in the folder.
