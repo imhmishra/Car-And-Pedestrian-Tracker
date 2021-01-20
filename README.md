@@ -8,3 +8,9 @@ Below are some of the images from my dry run of the code.
 ![](/images/Image_1.png)
 
 ![](/images/Image_2.png)
+
+
+# Requirements
+
+This project requires use of the OpenCV Library.
+It can be downloaded using pip install opencv-python
